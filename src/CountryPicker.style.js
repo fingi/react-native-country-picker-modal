@@ -19,10 +19,10 @@ export default StyleSheet.create({
   },
   input: {
     height: 48,
-    width: '70%'
+    width: 70
   },
   inputOnly: {
-    marginLeft: '15%'
+    marginLeft: 15
   },
   touchFlag: {
     alignItems: 'center',
@@ -56,12 +56,12 @@ export default StyleSheet.create({
   itemCountryFlag: {
     justifyContent: 'center',
     alignItems: 'center',
-    height: '7%',
-    width: '15%'
+    height: 7,
+    width: 15,
   },
   itemCountryName: {
     justifyContent: 'center',
-    width: '70%',
+    width: 70,
     borderBottomWidth: 2 / PixelRatio.get(),
     borderBottomColor: '#ccc',
     height: 20
@@ -90,7 +90,7 @@ export default StyleSheet.create({
   },
   closeButton: {
     height: 48,
-    width: '15%',
+    width: 15,
     alignItems: 'center',
     justifyContent: 'center'
   },
